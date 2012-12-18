@@ -1,0 +1,30 @@
+# Lines that start with '#' are comments.
+*.db
+*.db-journal
+*.egg-info
+*.log
+*.py[co]
+.coverage
+.DS_Store
+.env
+*-env/*
+env/
+.idea
+.pydevproject
+.pydevproject.bak
+.settings
+.tmp_*
+.tox
+build/*
+coverage.xml
+css-*_.css
+js-*_.js
+local_settings.py
+nosetests.xml
+reports/*
+settings_local.py
+settings_local_test.py
+settings_test_local.py
+style-*_.css
+mediabrute_usefile
+*conflicted\ copy*
