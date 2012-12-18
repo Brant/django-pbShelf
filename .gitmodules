@@ -1,0 +1,3 @@
+[submodule "pbshelf/static"]
+	path = pbshelf/static
+	url = git://github.com/Brant/jquery.pbShelf.js.git
