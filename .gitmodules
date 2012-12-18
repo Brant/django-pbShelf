@@ -1,0 +1,3 @@
+[submodule "pbshelf/static"]
+	path = pbshelf/static
+	url = https://github.com/Brant/django-pbShelf.git
